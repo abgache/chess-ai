@@ -1,4 +1,4 @@
-# chess AI
+# Chess AI
 Simple neural network that gets the chess board as an input and return a 12bits vector that represent the next move.  
 Total params: 60,322,828  
 Trainned on an NVIDIA GeForce GTX 970 with an Intel Core i7 7700.  
